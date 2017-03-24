@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\Vnote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_selected_check_box_from_media_chooser_header_bar.png",
+        "source": "D:\\Workspace\\AndroidStudio\\Vnote\\app\\src\\main\\res\\drawable-xxhdpi\\ic_selected_check_box_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\Vnote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_camera_unselect_from_media_chooser_header_bar.png",
+        "source": "D:\\Workspace\\AndroidStudio\\Vnote\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera_unselect_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\Vnote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_video_unselect_from_media_chooser_header_bar.png",
+        "source": "D:\\Workspace\\AndroidStudio\\Vnote\\app\\src\\main\\res\\drawable-xxhdpi\\ic_video_unselect_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\Vnote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_unselected_check_box_from_media_chooser_header_bar.png",
+        "source": "D:\\Workspace\\AndroidStudio\\Vnote\\app\\src\\main\\res\\drawable-xxhdpi\\ic_unselected_check_box_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\Vnote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_camera_selected_from_media_chooser_header_bar.png",
+        "source": "D:\\Workspace\\AndroidStudio\\Vnote\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera_selected_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\Vnote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_video_selected_from_media_chooser_header_bar.png",
+        "source": "D:\\Workspace\\AndroidStudio\\Vnote\\app\\src\\main\\res\\drawable-xxhdpi\\ic_video_selected_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\Vnote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_navigation_left_from_media_chooser_header_bar.png",
+        "source": "D:\\Workspace\\AndroidStudio\\Vnote\\app\\src\\main\\res\\drawable-xxhdpi\\ic_navigation_left_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudio\\Vnote\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_loading.png",
+        "source": "D:\\Workspace\\AndroidStudio\\Vnote\\app\\src\\main\\res\\drawable-xxhdpi\\ic_loading.png"
+    }
+]

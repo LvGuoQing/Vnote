@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AndroidStudio\Vnote\app\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\Workspace\AndroidStudio\Vnote\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_7d8999a87d5e50b6418823373393cd8094fe0cb7.jar" />
+    </item>
+
+</items>

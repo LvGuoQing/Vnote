@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:5:22-78
+application
+ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\lenovo\.android\build-cache\e98c966af3ef37b732749fb8b9cdfab960a59d18\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\lenovo\.android\build-cache\62b7cedd599223f36516e2e9cbda59fca3a4ce91\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\lenovo\.android\build-cache\686ce85dda9e38b2b9250d9b7aa34bd9e6ee22a2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\lenovo\.android\build-cache\7a28e178ed9dedb2153c6369b5e04f79f016734a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\lenovo\.android\build-cache\f5f46bf6be7b8705e1e5a3a17107464ba2b2d069\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\lenovo\.android\build-cache\754662be028cce72466a93ea42866cdf79207091\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\lenovo\.android\build-cache\8e734d07dd207020a0f80ffcb51d3e71633bccde\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\lenovo\.android\build-cache\09e5c145164735de2013e4f4b2bce965d5358fc0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\lenovo\.android\build-cache\322e4ad918e992729db19a0c8061beb69c455807\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lenovo\.android\build-cache\3b8ed3128065adc8f1914b7db7b38949fca503fb\output\AndroidManifest.xml:9:5-20
+	android:allowBackup
+		ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:9:9-38
+	android:theme
+		ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:10:9-62
+activity#cn.edu.cqu.vnote.Activity.BucketHomeFragmentActivity
+ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:11:9-13:62
+	android:configChanges
+		ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:13:13-59
+	android:name
+		ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:12:13-64
+activity#cn.edu.cqu.vnote.Activity.HomeFragmentActivity
+ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:14:9-16:62
+	android:configChanges
+		ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:16:13-59
+	android:name
+		ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:15:13-58
+activity#cn.edu.cqu.vnote.StartActivity
+ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:17:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\lenovo\.android\build-cache\e98c966af3ef37b732749fb8b9cdfab960a59d18\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\lenovo\.android\build-cache\62b7cedd599223f36516e2e9cbda59fca3a4ce91\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\lenovo\.android\build-cache\686ce85dda9e38b2b9250d9b7aa34bd9e6ee22a2\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\lenovo\.android\build-cache\7a28e178ed9dedb2153c6369b5e04f79f016734a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\lenovo\.android\build-cache\f5f46bf6be7b8705e1e5a3a17107464ba2b2d069\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\lenovo\.android\build-cache\754662be028cce72466a93ea42866cdf79207091\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\lenovo\.android\build-cache\8e734d07dd207020a0f80ffcb51d3e71633bccde\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\lenovo\.android\build-cache\09e5c145164735de2013e4f4b2bce965d5358fc0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\lenovo\.android\build-cache\322e4ad918e992729db19a0c8061beb69c455807\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lenovo\.android\build-cache\3b8ed3128065adc8f1914b7db7b38949fca503fb\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\lenovo\.android\build-cache\e98c966af3ef37b732749fb8b9cdfab960a59d18\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\AndroidStudio\Vnote\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\lenovo\.android\build-cache\e98c966af3ef37b732749fb8b9cdfab960a59d18\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\lenovo\.android\build-cache\62b7cedd599223f36516e2e9cbda59fca3a4ce91\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\lenovo\.android\build-cache\686ce85dda9e38b2b9250d9b7aa34bd9e6ee22a2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\lenovo\.android\build-cache\7a28e178ed9dedb2153c6369b5e04f79f016734a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\lenovo\.android\build-cache\f5f46bf6be7b8705e1e5a3a17107464ba2b2d069\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\lenovo\.android\build-cache\754662be028cce72466a93ea42866cdf79207091\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\lenovo\.android\build-cache\8e734d07dd207020a0f80ffcb51d3e71633bccde\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\lenovo\.android\build-cache\09e5c145164735de2013e4f4b2bce965d5358fc0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\lenovo\.android\build-cache\322e4ad918e992729db19a0c8061beb69c455807\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\lenovo\.android\build-cache\e98c966af3ef37b732749fb8b9cdfab960a59d18\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\lenovo\.android\build-cache\e98c966af3ef37b732749fb8b9cdfab960a59d18\output\AndroidManifest.xml:26:9-47
